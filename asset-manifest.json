@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Afrobank/static/js/main.d92afce0.chunk.js",
+    "main.js.map": "/Afrobank/static/js/main.d92afce0.chunk.js.map",
+    "runtime-main.js": "/Afrobank/static/js/runtime-main.f382be4a.js",
+    "runtime-main.js.map": "/Afrobank/static/js/runtime-main.f382be4a.js.map",
+    "static/css/2.ff645aaf.chunk.css": "/Afrobank/static/css/2.ff645aaf.chunk.css",
+    "static/js/2.2aa135e5.chunk.js": "/Afrobank/static/js/2.2aa135e5.chunk.js",
+    "static/js/2.2aa135e5.chunk.js.map": "/Afrobank/static/js/2.2aa135e5.chunk.js.map",
+    "index.html": "/Afrobank/index.html",
+    "precache-manifest.3fcb487c952f5b573c6a1854e7db7e4a.js": "/Afrobank/precache-manifest.3fcb487c952f5b573c6a1854e7db7e4a.js",
+    "service-worker.js": "/Afrobank/service-worker.js",
+    "static/css/2.ff645aaf.chunk.css.map": "/Afrobank/static/css/2.ff645aaf.chunk.css.map",
+    "static/js/2.2aa135e5.chunk.js.LICENSE.txt": "/Afrobank/static/js/2.2aa135e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f382be4a.js",
+    "static/css/2.ff645aaf.chunk.css",
+    "static/js/2.2aa135e5.chunk.js",
+    "static/js/main.d92afce0.chunk.js"
+  ]
+}
