@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Afrobank/precache-manifest.3fcb487c952f5b573c6a1854e7db7e4a.js"
+  "/Afrobank/precache-manifest.831100e6d51aee7d16859820380548d3.js"
 );
 
 self.addEventListener('message', (event) => {
