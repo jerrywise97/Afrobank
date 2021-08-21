@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76a09f9f9e6c5b4ed568b44b7f88b5d0",
+    "revision": "74d1c1881dabf1c651a7ca1934fa8fc2",
     "url": "/Afrobank/index.html"
   },
   {
