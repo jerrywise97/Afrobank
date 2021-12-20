@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8adef05e1c0051a455eda4d2c904dcd6",
+    "revision": "b698ebe3911ddce906f236f14ca2bb5d",
     "url": "/Afrobank/index.html"
   },
   {
-    "revision": "44afaa068c84814b7180",
+    "revision": "0c5cee10a034eda68158",
     "url": "/Afrobank/static/css/2.ff645aaf.chunk.css"
   },
   {
-    "revision": "4e82b745b4e17608ca47",
+    "revision": "6aa4a8c339d686d8e1b9",
     "url": "/Afrobank/static/css/main.9cffbd93.chunk.css"
   },
   {
-    "revision": "44afaa068c84814b7180",
-    "url": "/Afrobank/static/js/2.a48133ef.chunk.js"
+    "revision": "0c5cee10a034eda68158",
+    "url": "/Afrobank/static/js/2.da47bada.chunk.js"
   },
   {
     "revision": "fdcaaacd81b601f7b670246b120cf148",
-    "url": "/Afrobank/static/js/2.a48133ef.chunk.js.LICENSE.txt"
+    "url": "/Afrobank/static/js/2.da47bada.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e82b745b4e17608ca47",
-    "url": "/Afrobank/static/js/main.4d3917eb.chunk.js"
+    "revision": "6aa4a8c339d686d8e1b9",
+    "url": "/Afrobank/static/js/main.81013b40.chunk.js"
   },
   {
     "revision": "e32c748963b3119b6e96",
