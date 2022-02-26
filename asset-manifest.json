@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Afrobank/static/css/main.5de84729.chunk.css",
-    "main.js": "/Afrobank/static/js/main.c2068bc5.chunk.js",
-    "main.js.map": "/Afrobank/static/js/main.c2068bc5.chunk.js.map",
+    "main.css": "/Afrobank/static/css/main.ce22c897.chunk.css",
+    "main.js": "/Afrobank/static/js/main.b32adb47.chunk.js",
+    "main.js.map": "/Afrobank/static/js/main.b32adb47.chunk.js.map",
     "runtime-main.js": "/Afrobank/static/js/runtime-main.c4ceee4a.js",
     "runtime-main.js.map": "/Afrobank/static/js/runtime-main.c4ceee4a.js.map",
     "static/css/2.ff645aaf.chunk.css": "/Afrobank/static/css/2.ff645aaf.chunk.css",
-    "static/js/2.5139fa90.chunk.js": "/Afrobank/static/js/2.5139fa90.chunk.js",
-    "static/js/2.5139fa90.chunk.js.map": "/Afrobank/static/js/2.5139fa90.chunk.js.map",
+    "static/js/2.079f1be2.chunk.js": "/Afrobank/static/js/2.079f1be2.chunk.js",
+    "static/js/2.079f1be2.chunk.js.map": "/Afrobank/static/js/2.079f1be2.chunk.js.map",
     "index.html": "/Afrobank/index.html",
-    "precache-manifest.b5b922c4a69754e481f2b1cf0f217f79.js": "/Afrobank/precache-manifest.b5b922c4a69754e481f2b1cf0f217f79.js",
+    "precache-manifest.1d14ca492aefbd7534a4fb56a8e3beca.js": "/Afrobank/precache-manifest.1d14ca492aefbd7534a4fb56a8e3beca.js",
     "service-worker.js": "/Afrobank/service-worker.js",
     "static/css/2.ff645aaf.chunk.css.map": "/Afrobank/static/css/2.ff645aaf.chunk.css.map",
-    "static/css/main.5de84729.chunk.css.map": "/Afrobank/static/css/main.5de84729.chunk.css.map",
-    "static/js/2.5139fa90.chunk.js.LICENSE.txt": "/Afrobank/static/js/2.5139fa90.chunk.js.LICENSE.txt"
+    "static/css/main.ce22c897.chunk.css.map": "/Afrobank/static/css/main.ce22c897.chunk.css.map",
+    "static/js/2.079f1be2.chunk.js.LICENSE.txt": "/Afrobank/static/js/2.079f1be2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c4ceee4a.js",
     "static/css/2.ff645aaf.chunk.css",
-    "static/js/2.5139fa90.chunk.js",
-    "static/css/main.5de84729.chunk.css",
-    "static/js/main.c2068bc5.chunk.js"
+    "static/js/2.079f1be2.chunk.js",
+    "static/css/main.ce22c897.chunk.css",
+    "static/js/main.b32adb47.chunk.js"
   ]
 }
