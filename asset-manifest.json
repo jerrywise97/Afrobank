@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Afrobank/static/css/main.ce22c897.chunk.css",
-    "main.js": "/Afrobank/static/js/main.b12faef5.chunk.js",
-    "main.js.map": "/Afrobank/static/js/main.b12faef5.chunk.js.map",
+    "main.js": "/Afrobank/static/js/main.8683a253.chunk.js",
+    "main.js.map": "/Afrobank/static/js/main.8683a253.chunk.js.map",
     "runtime-main.js": "/Afrobank/static/js/runtime-main.c4ceee4a.js",
     "runtime-main.js.map": "/Afrobank/static/js/runtime-main.c4ceee4a.js.map",
     "static/css/2.ff645aaf.chunk.css": "/Afrobank/static/css/2.ff645aaf.chunk.css",
-    "static/js/2.deec4a34.chunk.js": "/Afrobank/static/js/2.deec4a34.chunk.js",
-    "static/js/2.deec4a34.chunk.js.map": "/Afrobank/static/js/2.deec4a34.chunk.js.map",
+    "static/js/2.4a106b5e.chunk.js": "/Afrobank/static/js/2.4a106b5e.chunk.js",
+    "static/js/2.4a106b5e.chunk.js.map": "/Afrobank/static/js/2.4a106b5e.chunk.js.map",
     "index.html": "/Afrobank/index.html",
-    "precache-manifest.d1a91f408db5752ed8a012dc325b1329.js": "/Afrobank/precache-manifest.d1a91f408db5752ed8a012dc325b1329.js",
+    "precache-manifest.7276ade11786d67dfd644497895e864d.js": "/Afrobank/precache-manifest.7276ade11786d67dfd644497895e864d.js",
     "service-worker.js": "/Afrobank/service-worker.js",
     "static/css/2.ff645aaf.chunk.css.map": "/Afrobank/static/css/2.ff645aaf.chunk.css.map",
     "static/css/main.ce22c897.chunk.css.map": "/Afrobank/static/css/main.ce22c897.chunk.css.map",
-    "static/js/2.deec4a34.chunk.js.LICENSE.txt": "/Afrobank/static/js/2.deec4a34.chunk.js.LICENSE.txt",
+    "static/js/2.4a106b5e.chunk.js.LICENSE.txt": "/Afrobank/static/js/2.4a106b5e.chunk.js.LICENSE.txt",
     "static/media/city.jpg": "/Afrobank/static/media/city.8c7b48fc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c4ceee4a.js",
     "static/css/2.ff645aaf.chunk.css",
-    "static/js/2.deec4a34.chunk.js",
+    "static/js/2.4a106b5e.chunk.js",
     "static/css/main.ce22c897.chunk.css",
-    "static/js/main.b12faef5.chunk.js"
+    "static/js/main.8683a253.chunk.js"
   ]
 }
