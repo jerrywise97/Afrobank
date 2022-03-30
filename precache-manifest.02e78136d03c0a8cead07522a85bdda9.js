@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8bbfd3a80f54ad783486c13598b040a",
+    "revision": "860f07a029e936b539637bebb7f0ca41",
     "url": "/Afrobank/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Afrobank/static/css/2.ff645aaf.chunk.css"
   },
   {
-    "revision": "a9b055a204198f32f038",
+    "revision": "4aa5204ea12e4d97762c",
     "url": "/Afrobank/static/css/main.4ad7f51f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Afrobank/static/js/2.b8ac4f00.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9b055a204198f32f038",
-    "url": "/Afrobank/static/js/main.31326dc0.chunk.js"
+    "revision": "4aa5204ea12e4d97762c",
+    "url": "/Afrobank/static/js/main.ad8e6544.chunk.js"
   },
   {
     "revision": "e32c748963b3119b6e96",
