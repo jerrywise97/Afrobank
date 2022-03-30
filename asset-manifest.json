@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Afrobank/static/css/main.4ad7f51f.chunk.css",
-    "main.js": "/Afrobank/static/js/main.18616774.chunk.js",
-    "main.js.map": "/Afrobank/static/js/main.18616774.chunk.js.map",
+    "main.js": "/Afrobank/static/js/main.99acc3e8.chunk.js",
+    "main.js.map": "/Afrobank/static/js/main.99acc3e8.chunk.js.map",
     "runtime-main.js": "/Afrobank/static/js/runtime-main.c4ceee4a.js",
     "runtime-main.js.map": "/Afrobank/static/js/runtime-main.c4ceee4a.js.map",
     "static/css/2.ff645aaf.chunk.css": "/Afrobank/static/css/2.ff645aaf.chunk.css",
     "static/js/2.b8ac4f00.chunk.js": "/Afrobank/static/js/2.b8ac4f00.chunk.js",
     "static/js/2.b8ac4f00.chunk.js.map": "/Afrobank/static/js/2.b8ac4f00.chunk.js.map",
     "index.html": "/Afrobank/index.html",
-    "precache-manifest.c84b1b0a247cecb3405ffa09e07fac8b.js": "/Afrobank/precache-manifest.c84b1b0a247cecb3405ffa09e07fac8b.js",
+    "precache-manifest.599ac9a0e69c63a5459d108a1a0600f2.js": "/Afrobank/precache-manifest.599ac9a0e69c63a5459d108a1a0600f2.js",
     "service-worker.js": "/Afrobank/service-worker.js",
     "static/css/2.ff645aaf.chunk.css.map": "/Afrobank/static/css/2.ff645aaf.chunk.css.map",
     "static/css/main.4ad7f51f.chunk.css.map": "/Afrobank/static/css/main.4ad7f51f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.ff645aaf.chunk.css",
     "static/js/2.b8ac4f00.chunk.js",
     "static/css/main.4ad7f51f.chunk.css",
-    "static/js/main.18616774.chunk.js"
+    "static/js/main.99acc3e8.chunk.js"
   ]
 }
