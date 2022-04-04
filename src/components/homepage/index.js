@@ -29,7 +29,7 @@ const HomePage = (props) => {
 
   const isEmpty = Object.keys(payLoad).length === 0
   const name = isEmpty ? {} : `${payLoad.firstName[0]}${payLoad.lastName[0]}`
-  const { firstName, lastName } = props.payLoad
+  const { firstName, lastName } = props.payLoad | {}
   return (
     <MainWrapper className="pt-3">
       <Row className="d-flex justify-content-between align-items-center">

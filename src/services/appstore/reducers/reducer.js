@@ -21,6 +21,8 @@ const reducers = createSlice({
   },
 })
 
+console.log(JSON.stringify(reducers.reducer))
+
 export const { login, updateUser, updateTransactionHistory, updateSignIn } =
   reducers.actions
 export default reducers.reducer
